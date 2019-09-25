@@ -30,6 +30,7 @@ resource "google_folder" "test" {
   parent       = var.base_parent_id
 }
 
+
 # Projects
 
 resource "random_id" "test" {
