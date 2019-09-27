@@ -119,8 +119,3 @@ output "mode" {
   value       = var.mode
   description = "Mode of IAM management ('authoritative' OR 'additive')."
 }
-
-output "mode" {
-  value       = var.mode
-  description = "Mode of IAM management ('authoritative' OR 'additive')."
-}

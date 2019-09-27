@@ -55,8 +55,3 @@ variable "org_id" {
   type        = string
   description = "Organization ID"
 }
-
-variable "org_id" {
-  type        = string
-  description = "Organization ID"
-}
